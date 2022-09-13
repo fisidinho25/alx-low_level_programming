@@ -1,14 +1,14 @@
-#include "main.h"
+#include <studio.h>
+include "main.h"
 /**
+ * main - program entry point
  *
- * main - check the code*
+ * Description: This is a program to print putchar
  *
  * Return: Always 0.
- *
  */
 int main(void)
 {
-
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
