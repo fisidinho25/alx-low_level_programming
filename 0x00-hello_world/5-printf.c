@@ -1,7 +1,6 @@
 #include <stdio.h>
-/** main - Entry point
- *
- * Description: Write a C program that prints exactly with proper grammar, but the outcome is a piece of art
+/**
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
